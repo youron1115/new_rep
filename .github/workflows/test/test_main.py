@@ -1,4 +1,4 @@
 from main import test
 
 def test_main():
-    assert test() == "progrma running"
+    assert test() == "program running"
